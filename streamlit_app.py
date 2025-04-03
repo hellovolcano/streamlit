@@ -14,8 +14,6 @@ df = pd.DataFrame({
     'second column': [10, 20, 30, 40]
 })
 
-st.write(df)
-
 st.write('Below is a DataFrame:', df, 'Above is a dataframe')
 
 df2 = pd.DataFrame(
